@@ -1,0 +1,14 @@
+{
+  "id": "tunag",
+  "name": "TUNAG",
+  "version": "1.0.0",
+  "description": "エンゲージメント経営コンサルティング【ツナグ|TUNAG】",
+  "main": "index.js",
+  "author": "Katsumi Onishi <oonishi.k@opst.co.jp>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://tunag.jp/",
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false
+  }
+}
